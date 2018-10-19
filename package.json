@@ -1,0 +1,17 @@
+{
+    "name": "Modul",
+    "version": "1.0.0",
+    "description": "Praktikum MDP PWA Jilid 2",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1 -p 8888"
+    },
+    "keywords": [
+        "pwa"
+    ],
+    "author": "Asisten MDP PWA 2",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "http-server": "^0.10.0"
+    }
+}
